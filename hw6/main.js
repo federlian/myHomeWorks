@@ -93,6 +93,10 @@ let userId = users.map((value, index) => {
 
 // - відсортувати його за індентифікатором
 
+userId.sort((a, b) => a.id - b.id);
+
+// -- наисать функцию калькулятора с 2мя числами и колбеком
+
 function calculate(num1, num2, callback) {
     return callback(num1, num2)};
 
