@@ -93,12 +93,27 @@ let userId = users.map((value, index) => {
 
 // - відсортувати його за індентифікатором
 
-userId.sort((a, b) => a.id - b.id);
+function calculate(num1, num2, callback) {
+    return callback(num1, num2)};
 
-// -- наисать функцию калькулятора с 2мя числами и колбеком
+let add = (num1, num2) => num1 + num2;
+let sub = (num1, num2) => num1 - num2;
+let mul = (num1, num2) => num1 * num2;
+let div = (num1, num2) => num1 / num2;
+
+let result = calculate(2, 5, add);
+console.log(result);
 
 // -- наисать функцию калькулятора с 3мя числами и колбеком
+
+// let calculate = (num1, num2, num3, callback) => callback(num1, num2, num3);
 //
+// let add = (num1, num2, num3) => num1 + num2 + num3;
+// let sub = (num1, num2, num3) => num1 - num2 - num3;
+// let mul = (num1, num2, num3) => num1 * num2 * num3;
+// let div = (num1, num2, num3) => num1 / num2 / num3;
+//
+// let result = calculate(2, 8, 9, mul)
 // =============================================
 // =============================================
 // =============КЛАССНАЯ РАБОТА=================
