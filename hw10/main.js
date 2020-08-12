@@ -1,4 +1,5 @@
 //--------------------------1-----------------------------------------------------------
+
 function userCard(number) {
   let balance = 100;
   let transactionLimit = 100;
@@ -56,6 +57,7 @@ function userCard(number) {
 }
 
 //-------------------------------------------2-------------------------------------------
+
 class UserAccount {
   constructor(name) {
     this.name = name;
