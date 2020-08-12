@@ -17,14 +17,20 @@ function userCard(number) {
     }
   }
 
+  function pushHistory(operationType, money, operationTime) {
+    historyLogs.push({ operationType, money, operationTime });
+  }
+
   function putCredits (money) {
-    historyLogs.push({operationType: 'Received credits', money: money, operationTime: new Date().toLocaleString()});
+    let date = new Date().toLocaleString();
+    pushHistory('Received credits', money, date);
     return balance += money;
   }
 
   function takeCredits (money) {
-    historyLogs.push({operationType: 'Withdrawal of credits', money: money, operationTime: new Date().toLocaleString()});
     if (balance >= money && transactionLimit >= money) {
+      let date = new Date().toLocaleString();
+      pushHistory('Withdrawal of credits', money, date);
       balance -= money;
       transactionLimit -= money;
       return true
@@ -35,7 +41,8 @@ function userCard(number) {
   }
 
   function setTransactionLimit (money) {
-    historyLogs.push({operationType: 'Transaction limit changes', money: money, operationTime: new Date().toLocaleString()});
+    let date = new Date().toLocaleString();
+    pushHistory('Transaction limit changes', money, date)
     return transactionLimit = money
   }
 
