@@ -135,5 +135,3 @@ SELECT MAX(Sum) FROM application WHERE CreditState LIKE 'N%';
 #
 #
 #
-# set sql_safe_updates = 0;
-# set sql_safe_updates = 1;
