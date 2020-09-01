@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8ba90b13-ef81-4324-b629-d35a340dea1e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw1/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,7 +62,13 @@
       <workItem from="1598044096809" duration="1416000" />
       <workItem from="1598302770351" duration="778000" />
       <workItem from="1598303565561" duration="515000" />
-      <workItem from="1598384145210" duration="3931000" />
+      <workItem from="1598384145210" duration="6144000" />
+      <workItem from="1598393558889" duration="7000" />
+      <workItem from="1598393580178" duration="459000" />
+      <workItem from="1598394264357" duration="3000" />
+      <workItem from="1598471441956" duration="5000" />
+      <workItem from="1598696951280" duration="55000" />
+      <workItem from="1598954717111" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="create vue project">
       <created>1598044152316</created>
@@ -71,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598044152316</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="vue hw 1">
+      <created>1598388381499</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598388381499</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,12 +104,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create vue project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create vue project" />
+    <MESSAGE value="vue hw 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="vue hw 1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598044155173">
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598388384165">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1598044155173" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1598388384165" />
   </component>
 </project>
