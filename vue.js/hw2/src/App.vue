@@ -26,6 +26,7 @@
         :arr-todo="arrTodo"
         @del="del"
     />
+    <Form/>
   </div>
 </template>
 
@@ -33,13 +34,15 @@
 
 import AddTodo from "./components/AddTodo";
 import TodoList from "./components/TodoList";
+import Form from "./components/Form";
 
 export default {
   name: 'App',
 
   components: {
     AddTodo,
-    TodoList
+    TodoList,
+    Form
   },
 
   data() {
