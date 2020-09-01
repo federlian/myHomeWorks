@@ -20,18 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ba90b13-ef81-4324-b629-d35a340dea1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hw2/src/components/AddTodo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/src/components/TodoItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/src/components/TodoList.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/components/HelloWorld.vue" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1gQN8kwcfTxLqb3An80zRdv5CM1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,7 +82,14 @@
       <workItem from="1598394264357" duration="3000" />
       <workItem from="1598471441956" duration="5000" />
       <workItem from="1598696951280" duration="55000" />
-      <workItem from="1598954717111" duration="315000" />
+      <workItem from="1598954717111" duration="1922000" />
+      <workItem from="1598956655170" duration="1795000" />
+      <workItem from="1598958603100" duration="1797000" />
+      <workItem from="1598960454419" duration="1691000" />
+      <workItem from="1598962261995" duration="1795000" />
+      <workItem from="1598964071127" duration="1801000" />
+      <workItem from="1598965894199" duration="1796000" />
+      <workItem from="1598967703605" duration="1490000" />
     </task>
     <task id="LOCAL-00001" summary="create vue project">
       <created>1598044152316</created>
@@ -84,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598388381499</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create hw2">
+      <created>1598955091522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598955091522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,12 +133,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create vue project" />
     <MESSAGE value="vue hw 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="vue hw 1" />
+    <MESSAGE value="create hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="create hw2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598388384165">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state x="591" y="291" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598955094190">
+      <screen x="72" y="29" width="1848" height="1051" />
     </state>
     <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1598388384165" />
+    <state x="591" y="291" key="Vcs.Push.Dialog.v2/72.29.1848.1051@72.29.1848.1051" timestamp="1598955094190" />
+    <state x="660" y="252" key="run.anything.popup" timestamp="1598956142084">
+      <screen x="72" y="29" width="1848" height="1051" />
+    </state>
+    <state x="660" y="252" key="run.anything.popup/72.29.1848.1051@72.29.1848.1051" timestamp="1598956142084" />
   </component>
 </project>
