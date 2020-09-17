@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ba90b13-ef81-4324-b629-d35a340dea1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hw2/src/components/Form.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw2/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw2/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +36,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1gQN8kwcfTxLqb3An80zRdv5CM1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -91,6 +92,8 @@
       <workItem from="1598965894199" duration="1796000" />
       <workItem from="1598967703605" duration="1796000" />
       <workItem from="1598971334268" duration="1828000" />
+      <workItem from="1598973175944" duration="631000" />
+      <workItem from="1600373499750" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="create vue project">
       <created>1598044152316</created>
@@ -120,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598969228289</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add bootstrap and form">
+      <created>1598973783553</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598973783553</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,14 +153,15 @@
     <MESSAGE value="vue hw 1" />
     <MESSAGE value="create hw2" />
     <MESSAGE value="hw2 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw2 complete" />
+    <MESSAGE value="add bootstrap and form" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bootstrap and form" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="591" y="291" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598969230165">
+    <state x="591" y="291" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598973786551">
       <screen x="72" y="29" width="1848" height="1051" />
     </state>
     <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1598388384165" />
-    <state x="591" y="291" width="800" height="535" key="Vcs.Push.Dialog.v2/72.29.1848.1051@72.29.1848.1051" timestamp="1598969230165" />
+    <state x="591" y="291" width="800" height="535" key="Vcs.Push.Dialog.v2/72.29.1848.1051@72.29.1848.1051" timestamp="1598973786551" />
     <state x="660" y="252" key="run.anything.popup" timestamp="1598956142084">
       <screen x="72" y="29" width="1848" height="1051" />
     </state>
