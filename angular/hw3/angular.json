@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hw3"
+    }
+  },
+  "defaultProject": "hw3",
+  "cli": {
+    "analytics": "53dc2db7-419f-4811-a619-82a859498156"
+  }
 }
