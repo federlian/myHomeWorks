@@ -11,9 +11,9 @@ export class AllUsersComponent {
 
   usersList: User[] = [];
 
-  constructor(private acivatedRoute: ActivatedRoute) {
+  constructor(private activatedRoute: ActivatedRoute) {
 
-    this.acivatedRoute.data.subscribe(value => console.log(value));
-    this.acivatedRoute.data.subscribe(value => this.usersList = value.xxx);
+    this.activatedRoute.data.subscribe(value => console.log(value));
+    this.activatedRoute.data.subscribe(value => this.usersList = value.xxx);
   }
 }
