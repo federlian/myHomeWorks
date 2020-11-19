@@ -1,0 +1,11 @@
+.menu {
+  padding: 50px;
+}
+
+.content {
+  padding: 50px;
+}
+
+.active {
+  color: gold;
+}
